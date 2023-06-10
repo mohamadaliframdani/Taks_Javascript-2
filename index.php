@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration Form</title>
+	<title>Registration Forms</title>
 	<style>
 		body {
 			background-image: url('img/Starlid-illustration.svg');
