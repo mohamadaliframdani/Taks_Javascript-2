@@ -231,7 +231,7 @@
 	</table>
 
 	<script>
-		var lowonganData = ["System Administrator", "Programmer", "Database Administrator"];
+		var lowonganData = ["Database Administrator", "Programmer", "System Administrator"];
 
 		var posisiData = ["Jakarta", "Bandung"];
 
@@ -246,7 +246,7 @@
 				terisi: 0
 			},
 			"Programmer": {
-				kuota: 3,
+				kuota: 2,
 				terisi: 0
 			},
 			"System Administrator": {
