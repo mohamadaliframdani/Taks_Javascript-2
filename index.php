@@ -241,18 +241,19 @@
 		var posisiDropdown = document.getElementById("posisi");
 
 		var kuotaVacancy = {
-			"System Administrator": {
-				kuota: 2,
+			"Database Administrator": {
+				kuota: 1,
 				terisi: 0
 			},
 			"Programmer": {
 				kuota: 3,
 				terisi: 0
 			},
-			"Database Administrator": {
-				kuota: 4,
+			"System Administrator": {
+				kuota: 2,
 				terisi: 0
 			}
+			
 		};
 
 		lowonganData.forEach(function (lowongan) {
